@@ -132,5 +132,5 @@ jobs:
             Default username: root
             Default password: password
             Default WIFI name: Phicomm_n1
-            Default WIFI password: none
+            Default WIFI password: password
             Install to EMMC: Login to OpenWrt → System → Amlogic Service → Install OpenWrt
